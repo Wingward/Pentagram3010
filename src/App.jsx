@@ -3,9 +3,9 @@ import './App.css';
 import logoImg from './logo.png';
 
 // --- YENİ EKLENEN GÖRSELLER ---
-import imgSteel from './img-steel.jpeg';
-import imgBoatShip from './img-boat-ship.jpeg';
-import imgBoatTruck from './img-boat-truck.jpeg';
+import imgSteel from './img-steel.jpg';
+import imgBoatShip from './img-boat-ship.jpg';
+import imgBoatTruck from './img-boat-truck.jpg';
 import imgPentaTruck from './img-penta-truck.jpg';
 import imgOversized from './img-oversized.jpg';
 
