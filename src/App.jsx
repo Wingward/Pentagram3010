@@ -3,11 +3,11 @@ import './App.css';
 import logoImg from './logo.png';
 
 // --- YENİ EKLENEN GÖRSELLER ---
-import imgSteel from './WhatsApp Image 2021-11-09 at 11.30.12 (3).jpeg';
-import imgBoatShip from './6488a229-c973-0507-8ead-d1b3075064ae - Copy.jpeg';
-import imgBoatTruck from './6488a229-c973-0507-8ead-d1b3075064ae.jpeg';
-import imgPentaTruck from './8c3870d7-25ff-e4ac-4e33-3cb11b25ff84.jpg';
-import imgOversized from './38bb1475-7fa0-4c30-a6e8-7a9cb8da5c2c.jpg';
+import imgSteel from './img-steel.jpeg';
+import imgBoatShip from './img-boat-ship.jpeg';
+import imgBoatTruck from './img-boat-truck.jpeg';
+import imgPentaTruck from './img-penta-truck.jpg';
+import imgOversized from './img-oversized.jpg';
 
 // Gelişmiş Türkçe Karakter Uyumlu Harf Büyütme
 const capitalizeWords = (str) => {
